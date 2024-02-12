@@ -1,6 +1,6 @@
 
 
-Hi! I'm Manar Allouch, a software developper student license level.
+Hi! I'm Manar Allouch, a software developer student
 I'm currently learning mobile developement, working on a lot of interesting projects.
 I'm also looking for an internship, so if you find this interesting, do not hesitate to contact me.
 
