@@ -1,7 +1,6 @@
 
 
-Hi! I'm Manar Allouch, a software developer student
-I'm currently learning, working on a lot of interesting projects.
-I'm also looking for an internship, so if you find this interesting, do not hesitate to contact me.
+Hi! I'm Manar Allouch, a software engineer student
+Thanks for visiting my page.
 
 THIS IS MY LINKEDIN PROFILE : www.linkedin.com/in/manar-allouch-627411254
